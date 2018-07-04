@@ -1,7 +1,10 @@
 # Authors
 Hafiz Saqib
+Jhon Smith
+
 # Title
-Biomass burning aerosol over West Africa
+Smilulation of Biomass burning aerosol over West Africa
+
 # Introduction
 we achknowledge the ground breaking work of allen at al but they haven't 
 hjFKGK YhbkgjfJK HKKGFH 
