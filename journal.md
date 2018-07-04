@@ -10,3 +10,5 @@ we achknowledge the ground breaking work of allen at al but they haven't
 hjFKGK YhbkgjfJK HKKGFH 
 
 Jeo at al descrdide about the entropy of fifteen molecules.
+
+jhon add simulation for measument of some inside 
